@@ -1,0 +1,60 @@
+2026-03-18 02:11:15,021 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-03-18 02:11:36,907 - INFO - User command: open whatsapp
+2026-03-18 02:11:37,265 - INFO - Speaking: Opening https://web.whatsapp.com
+2026-03-18 02:12:01,247 - INFO - User command: open youtube
+2026-03-18 02:12:01,291 - INFO - Speaking: Opening https://www.youtube.com
+2026-03-18 02:12:28,932 - INFO - User command: exit
+2026-03-18 02:12:28,933 - INFO - Speaking: Goodbye! Have a great day!
+2026-03-18 04:51:54,756 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-03-18 04:53:04,189 - INFO - User command: shutdown 
+2026-03-18 04:53:04,235 - INFO - Speaking: Are you sure you want to shutdown?
+2026-03-18 04:53:14,732 - INFO - User command: yes
+2026-03-18 04:53:16,858 - INFO - Speaking: Computer will shutdown in 1 minute(s)
+2026-03-18 05:11:26,691 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-03-18 05:11:39,980 - INFO - User command: can you open WhatsApp
+2026-03-18 05:11:40,387 - INFO - Speaking: Opening https://web.whatsapp.com
+2026-03-18 05:11:47,091 - INFO - User command: Salmani
+2026-03-18 05:12:02,404 - INFO - User command: hey Jarvis
+2026-03-18 05:12:15,920 - INFO - User command: Tiktok open now
+2026-03-18 05:12:22,101 - INFO - Speaking: Opening tiktok  now
+2026-03-18 05:12:30,650 - INFO - User command: hey Jarvis close shutdown shutdown
+2026-03-18 05:12:30,667 - INFO - Speaking: Are you sure you want to shutdown?
+2026-03-18 05:12:39,062 - INFO - User command: yas
+2026-03-18 05:12:39,079 - INFO - Speaking: Shutdown cancelled
+2026-03-18 05:12:48,280 - INFO - User command: yes no yes no yes no yes no
+2026-03-18 05:12:54,551 - INFO - User command: hey Jarvis search
+2026-03-18 05:12:54,625 - INFO - Speaking: Searching for hey jarvis
+2026-03-18 05:13:31,084 - INFO - User command: go to the equator
+2026-03-18 05:13:39,115 - INFO - User command: stop
+2026-03-18 05:14:05,882 - INFO - User command: exact
+2026-03-18 05:14:11,773 - INFO - User command: vs studio
+2026-03-18 05:14:31,050 - INFO - User command: open Chrome
+2026-03-18 05:14:31,104 - INFO - Speaking: Opening chrome
+2026-03-18 05:22:40,439 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-03-18 05:22:55,095 - INFO - Command (ur-PK): \u0679\u06cc\u06a9\u0679\u0648\u06a9 \u067e\u06d2 \u0633\u0631\u0686 \u06a9\u0631\u0648 \u06cc\u0648\u062a\u0648\u0628 \u067e\u06c1 \u0633\u0631\u0686 \u06a9\u0631\u0648 \u06af\u0627\u0646\u0627
+2026-03-18 05:23:17,844 - INFO - Command (ur-PK): \u06cc\u0648\u062a\u0648\u0628 \u06a9\u06be\u0648\u0644\u0648
+2026-03-18 05:23:22,538 - INFO - Command (ur-PK): \u0645\u06cc\u0631\u06d2 \u0644\u0626\u06d2 \u06cc\u0648\u062a\u0648\u0628 \u06a9\u06be\u0648\u0644\u0648
+2026-03-18 05:23:26,690 - INFO - Command (ur-PK): \u0627\u0648\u067e\u0646 \u06cc\u0648\u062a\u0648\u0628
+2026-03-18 05:23:30,625 - INFO - Command (ur-PK): \u06cc\u0648\u062a\u0648\u0628 \u0627\u0648\u067e\u0646 \u06a9\u0631\u0648
+2026-03-18 05:23:36,315 - INFO - Command (ur-PK): \u06cc\u0648\u062a\u0648\u0628 \u0627\u0648\u067e\u0646
+2026-03-18 05:24:46,197 - INFO - Command (ur-PK): \u0627\u0648\u067e\u0646 \u06cc\u0648
+2026-03-18 05:24:53,672 - INFO - Command (ur-PK): \u06a9\u06cc\u0646 \u06cc\u0648 \u0627\u0648\u067e\u0646 \u06cc\u0648
+2026-04-21 18:39:00,141 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-04-21 18:39:07,609 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-04-21 18:39:28,051 - INFO - User command: open Facebook
+2026-04-21 18:39:28,052 - INFO - User command: open Facebook
+2026-04-21 18:39:33,625 - INFO - Speaking: Opening facebook
+2026-04-21 18:39:43,048 - INFO - User command: Siri kam karta hai
+2026-04-21 18:39:51,031 - INFO - User command: open the chrome
+2026-04-21 18:39:53,656 - INFO - Speaking: Opening the chrome
+2026-04-21 18:41:52,549 - INFO - Speaking: Goodbye!
+2026-04-21 18:42:08,054 - INFO - Speaking: Hello! I am Jarvis, your AI voice assistant. How can I help you today?
+2026-04-21 18:42:21,565 - INFO - User command: hello Jarvis open WhatsApp
+2026-04-21 18:42:21,959 - INFO - Speaking: Opening https://web.whatsapp.com
+2026-04-21 18:42:39,969 - INFO - User command: close WhatsApp
+2026-04-21 18:42:46,180 - INFO - User command: command ka
+2026-04-21 18:43:00,836 - INFO - User command: hey Jarvis open YouTube
+2026-04-21 18:43:00,880 - INFO - Speaking: Opening https://www.youtube.com
+2026-04-21 18:43:14,906 - INFO - User command: hey Jarvis close YouTube tab
+2026-04-21 18:43:23,120 - INFO - User command: close YouTube tag
+2026-04-21 18:43:32,439 - INFO - User command: close YouTube driver
